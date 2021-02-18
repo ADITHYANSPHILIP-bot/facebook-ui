@@ -1,0 +1,116 @@
+.header{
+    width: 100%;
+    background-color: #404e76;
+    height: 100px;
+}body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding: 42px;  
+    float: left;
+}
+.login{
+    width: 40%;
+    float: left;
+    
+}
+.facebook{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 41px;
+    margin-left: 170px;
+}
+.secinput{
+    margin: 20px;
+}
+.login-label{
+    color: white;
+    font-size: 13px;
+}
+.forgot{
+    text-decoration: none;
+    color: #e4e0f8;
+    font-size: 11px;
+}
+.submitbtn:hover{
+    cursor: pointer;
+}
+.submitbtn{
+    background-color: #404e76;
+    color: white;
+}
+
+
+
+.body{
+    width: 100%;
+    background-color: white;
+    height: 590px;
+    margin: 0;
+    padding: 0;
+    
+    }
+
+.body-left{
+    width: 50%;
+    height: inherit;
+    float: left;
+    padding-left: 149px;
+    margin: 0;
+    
+}   
+.body-right{
+    width: 40%;
+    height: inherit;
+    float: left;
+    ;
+}
+.image{
+    height: 238px;
+    width: 571px;
+    
+    margin:0    ;
+
+}
+.margin{
+    margin: 5px;
+}
+.dis{
+ font-size: 21px;
+ font-weight: bold;
+ text-align:  ;
+}
+
+
+#pass, #mail{
+    width: 336px;
+}
+.terms{
+    font-size: 13px;
+    color: gray;
+
+}
+.terms a{
+    text-decoration: none;
+}
+#signup{
+    background-color: green;
+    width: 112px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 30px;
+    font-size: 18px;
+    font-family: bold;
+    color: white    
+}
+#final{
+    color: grey;
+    
+    font-size: 15px;
+}
+#final a{
+    text-decoration: none;
+}
